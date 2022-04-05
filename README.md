@@ -10,7 +10,7 @@ Once the runnable PParty application is launched, the login page is displayed to
 #### Creating/Deleting an Event
 Once the "Create New Event" button is clicked, the page for creating an event will be displayed. From here, the user will enter the appropriate details for the event he/she wishes to create. Once the user fills in all the fields and clicks on "Create Event", the event will be created successfully and will be displayed on the home page table with its details accordingly. If the user tries to create an event with blank fields, a popup window will be displayed notifying the user to enter the correct details in order for the event to be created successfully. *deleting the event will be added here once its implemented*
 
-### Dependancies
+### Dependencies
 In order to successfully run the program, a working internet connection is required to download the application and Windows OS. PParty is at very early implementation stages, so it is dependant on the users following this README file to run the appplication successfully.
 
 ### Functionality Exclusions
