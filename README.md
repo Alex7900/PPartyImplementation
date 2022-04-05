@@ -8,4 +8,10 @@ The runnable Player Party application has 4 main functionalities implemented (Re
 Once the runnable PParty application is launched, the login page is displayed to the user. From here, the user may wish to login with his/her existing account details. For implementation sake, we have added testing accounts in the users.txt file that are already stored and can be used to login to PParty. If the user clicks on "Register" from this page, he/she will be redirected to the Register page where the user will be prompted to enter his/her account details accordingly. Once the user registers successfully, the account details are stored and he/she will be redirected to the home page. Account details can be viewed in the users.txt file.
 
 #### Creating/Deleting an Event
-Once the "Create Event" button is clicked 
+Once the "Create New Event" button is clicked, the page for creating an event will be displayed. From here, the user will enter the appropriate details for the event he/she wishes to create. Once the user fills in all the fields and clicks on "Create Event", the event will be created successfully and will be displayed on the home page table with its details accordingly. If the user tries to create an event with blank fields, a popup window will be displayed notifying the user to enter the correct details in order for the event to be created successfully. **deleting the event will be added here once its implemented**
+
+### Dependancies
+In order to successfully run the program, a working internet connection is required to download the application, and Windows OS. PParty is at very early implementation stages, so it is dependant on the users following this README file to run the appplication successfully.
+
+### Functionality Exclusions
+Due to resource and time constraints, our team has only implemented these 4 main functionalities mentioned above. Other functionalities that were excluded are editing user profile, editing the event details, searching and joining events, and removing a user from an event. These functionalities are planned to be implemented in a future update.
