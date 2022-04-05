@@ -15,3 +15,11 @@ In order to successfully run the program, a working internet connection is requi
 
 ### Functionality Exclusions
 Due to resource and time constraints, our team has only implemented these 4 main functionalities mentioned above. Other functionalities that were excluded are editing user profile, editing the event details, searching and joining events, and removing a user from an event. These functionalities are planned to be implemented in a future update.
+
+### Authors and Contributors
+- Alexandros Ioannou, 191699620
+- Brian Ha, 190376250
+- Eric Wildfong, 190559940
+- Mark Luong, 170995900
+- Nihal Medak, 190827670
+- Shaheer Khan, 190693830
