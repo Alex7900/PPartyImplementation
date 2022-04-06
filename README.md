@@ -9,7 +9,7 @@ The runnable Player Party application has 4 main functionalities implemented (Re
 - To use the login functionality, the user must register his/her account first, close the application, launch it again and login with the username/password that was entered
 - From here, the user may wish to login with his/her existing account details. 
 - If the user clicks on "Register" from this page, he/she will be redirected to the Register page where the user will be prompted to enter his/her account details accordingly. 
-- Once the user registers successfully, the account details are stored and he/she will be redirected to the home page. Account details can be viewed in the users.txt file. 
+- Once the user registers successfully, the account details are stored and he/she will be redirected to the home page. Account details can be viewed in the users.txt file from the project file. 
 
 #### Creating and Deleting an Event
 - Once the "Create New Event" button is clicked, the page for creating an event will be displayed. 
